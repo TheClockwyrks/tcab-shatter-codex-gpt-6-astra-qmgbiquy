@@ -1,0 +1,11 @@
+[[media]]
+file = "orbit.json.gz"
+name = "Curve shots. Shatter armor."
+
+[[media]]
+file = "field.png"
+name = "Armor breaks into fragments"
+
+[[media]]
+file = "title.png"
+name = "Shatter / Warhead"
